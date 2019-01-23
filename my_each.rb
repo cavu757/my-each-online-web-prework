@@ -1,4 +1,4 @@
-def my_each (my_arr)
+def my_each (word)
   i=0 
   while i < my_arr.count
     i += 1 
