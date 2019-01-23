@@ -6,5 +6,5 @@ def my_each (words)
     i += 1 
 
   end
-  # code here
+  words
 end
