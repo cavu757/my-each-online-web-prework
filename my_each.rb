@@ -3,7 +3,7 @@ def my_each (words)
   while i < words.count
     words[i]
     i += 1
-    yield (words)
+    
   end
   # code here
 end
